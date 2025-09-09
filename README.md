@@ -229,7 +229,8 @@ We welcome contributions to OptiAuth! Here's how you can help:
 
 1. **Fork the Repository** 🍴
    ```bash
-   git fork https://github.com/BrightsSolution/OptiAuth.git
+   git fork https://github.com/Brights-Solution/OptiScan
+   cd OptiScan
    ```
 
 2. **Create Feature Branch** 🌿

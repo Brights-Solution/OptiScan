@@ -323,7 +323,7 @@ copies or substantial portions of the Software.
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/BrightsSolution/OptiAuth/issues)
 - **💡 Feature Requests**: [GitHub Discussions](https://github.com/BrightsSolution/OptiAuth/discussions)
 - **📧 General Inquiries**: [info@brightsolution.com](mailto:info@brightsolution.com)
-- **🔴 Live Demo**: [OptiScan](https://ai-optiscan.streamlit.app/)
+- **🔴 Live Demo**: [OptiScan](https://aioptiscan.streamlit.app/)
 ---
 
 <div align="center">
